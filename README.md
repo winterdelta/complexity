@@ -1,8 +1,8 @@
 # Complexity
 
-- A library for `Markov Chain Monte Carlo` simulations applied to `AI` `LLM` streaming responses.
+- A library for `Markov Chain Monte Carlo (MCMC)` simulations applied to `AI` `LLM` streaming responses.
 
-- Evaluate the financial value of any given `prompt-response` pair w.r.t. an MCMC simulation.
+- Evaluate the financial-value of any given `prompt-response` pair.
 - Designed to learn temporally or improve in accuracy with respect to (w.r.t.) time.
 - [Black-Scholes warning](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) 🦆
 
