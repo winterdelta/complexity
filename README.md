@@ -3,12 +3,12 @@
 - A library for `Markov Chain Monte Carlo` simulations applied to `AI` `LLM` streaming responses.
 
 - Evaluate the financial value of any given `prompt-response` pair w.r.t. an MCMC simulation.
-- Designed to learn temporally or improve in accuracy over time.
+- Designed to learn temporally or improve in accuracy with respect to (w.r.t.) time.
 - [Black-Scholes warning](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) 🦆
 
 - *Install the Library, via the instructions below to learn more and apply the model to your own LLM streaming...*
 
-![alt text](/assets/Stable%20Diffusion%20|%20Prediction.png "Complexity, computed via Replicate | stability-ai/stable-diffusion-3.5-large ")
+![alt text](/assets/Stable%20Diffusion%20Prediction.webp "Complexity, computed via Replicate | stability-ai/stable-diffusion-3.5-large ")
 > ___Complexity___: computed via [Replicate | stability-ai/stable-diffusion-3.5-large.](https://replicate.com/stability-ai/stable-diffusion-3.5-large)
 
 ---
