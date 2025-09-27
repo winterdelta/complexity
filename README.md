@@ -1,6 +1,6 @@
 # Complexity
 
-- A library for `Markov Chain Monte Carlo` applied to `AI` `LLM` streaming responses.
+- A library for `Markov Chain Monte Carlo` simulations applied to `AI` `LLM` streaming responses.
 
 - Evaluate the financial value of any given `prompt-response` pair w.r.t. an MCMC simulation.
 - Designed to learn temporally or improve in accuracy over time.
