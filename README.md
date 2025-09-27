@@ -8,7 +8,7 @@
 
 - *Install the Library, via the instructions below to learn more and apply the model to your own LLM streaming...*
 
-![alt text](/assets/Stable%20Diffusion%20Prediction.webp "Complexity, computed via Replicate | stability-ai/stable-diffusion-3.5-large ")
+![alt text](/assets/Stable%20Diffusion%20|%20Prediction.png "Complexity, computed via Replicate | stability-ai/stable-diffusion-3.5-large ")
 > ___Complexity___: computed via [Replicate | stability-ai/stable-diffusion-3.5-large.](https://replicate.com/stability-ai/stable-diffusion-3.5-large)
 
 ---
