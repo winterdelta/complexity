@@ -36,4 +36,4 @@ This project was created using `bun init` in bun v1.2.16. [Bun](https://bun.sh) 
 
 Written in the mid 20th-century, the [Markov Chain Monte Carlo (MCMC)](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) can, "handle complex, high-dimensional, and non-standard distributions in financial modeling... it's a powerful tool for pricing, risk management, and uncertainty quantification". [1]
 
-[1] Mistral: "codestral-latest" computed via [Geneva: Prototype](https://geneva.winterdelta.com).
+[1] Mistral: "codestral-latest" computed via a [Geneva: abstract](https://geneva.winterdelta.com).
